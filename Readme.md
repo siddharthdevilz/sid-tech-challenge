@@ -13,6 +13,7 @@ pip3 install -r requirements.txt
 * tests - Unit tests
 * requirements.txt - List of required python modules
 * `data/*.json` - Various data files
+* Dockerfile - docker file to run the script using docker
 
 ### Usage
 The script can be executed with the following command. The file provided must be a json file in proper format
