@@ -40,3 +40,11 @@ docker run sid-tech-challenge:0.0.1
 docker run sid-tech-challenge:0.0.1 <path/to/file.json>
 docker run sid-tech-challenge:0.0.1 data/purchases_v1.json
 ```
+
+### Output
+The following statistics for the given input file are output to STDOUT in json format.
+* total volume of spend
+* average purchase value
+* maximum purchase value
+* median purchase value
+* number of unique products purchased
