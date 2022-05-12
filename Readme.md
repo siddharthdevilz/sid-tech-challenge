@@ -21,4 +21,21 @@ python3 main.py filename
 
 e.g.
 python3 main.py data/purchases_v1.json
+
+## Run tests
+pytest tests.py
+```
+
+or, using Docker
+
+```
+# To build the docker image, first cd into the folder
+docker image build -t sid-tech-challenge:0.0.1 .  
+
+# To run with default input file
+docker run sid-tech-challenge:0.0.1 
+
+# To specify input file 
+docker run sid-tech-challenge:0.0.1 <path/to/file.json>
+docker run sid-tech-challenge:0.0.1 data/purchases_v1.json
 ```
