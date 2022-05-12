@@ -1,0 +1,104 @@
+[
+    {
+        
+        "customer_id": "a45f2398-3f57-4d83-84bf-87afc31b483a", 
+        "items": [
+            {
+                "department": "Tools", 
+                "price": "249.00", 
+                "product_category": "Sausages", 
+                "product_name": "Intelligent Fresh Pizza", 
+                "quantity": 1
+            }, 
+            {
+                "department": "Health", 
+                "price": "366.00", 
+                "product_category": "Mouse", 
+                "product_name": "Refined Wooden Hat", 
+                "quantity": 2
+            }
+        ], 
+        "purchase_id": "3655582c-4b0c-4db4-9b53-b2e0d06bba8d"
+    },
+    {
+        "brand": "Hammerbarn", 
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24", 
+        "items": [
+            {
+                "department": "Outdoors", 
+                "price": "549.00", 
+                "product_category": "Computer", 
+                "product_name": "Licensed Soft Table", 
+                "quantity": 2
+            }, 
+            {
+                "department": "Electronics", 
+                "price": "330.00", 
+                "product_category": "Cheese", 
+                "product_name": "Rustic Cotton Pizza", 
+                "quantity": 1
+            }
+        ], 
+        "purchase_id": "3731f03f-f7ac-4089-b43d-13d3845b67e0"
+    },
+    {
+        "brand": "Hammerbarn", 
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24", 
+        "items": [
+            {
+                "department": "Outdoors", 
+                "price": "abcd", 
+                "product_category": "Computer", 
+                "product_name": "Licensed Soft Table", 
+                "quantity": 2
+            }, 
+            {
+                "department": "Electronics", 
+                "price": "330.00", 
+                "product_category": "Cheese", 
+                "product_name": "Rustic Cotton Pizza", 
+                "quantity": 1
+            }
+        ], 
+        "purchase_id": "3731f03f-f7ac-4089-b43d-13d3845b67e0"
+    },
+    {
+        "brand": "Hammerbarn", 
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24", 
+        "items": [
+            {
+                "department": "Outdoors", 
+                "price": "549.00", 
+                "product_category": "Computer", 
+                "product_name": "Licensed Soft Table", 
+                "quantity": 2
+            }, 
+            {
+                "department": "Electronics", 
+                "price": "330.00", 
+                "product_category": "Cheese", 
+                "quantity": 1
+            }
+        ], 
+        "purchase_id": "3731f03f-f7ac-4089-b43d-13d3845b67e0"
+    },
+    {
+        "brand": "Hammerbarn", 
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24", 
+        "items": [
+            {
+                "department": "Outdoors", 
+                "price": "549.00", 
+                "product_category": "Computer", 
+                "product_name": "Licensed Soft Table"
+            }, 
+            {
+                "department": "Electronics", 
+                "product_category": "Cheese", 
+                "product_name": "Rustic Cotton Pizza", 
+                "quantity": 1
+            }
+        ], 
+        "purchase_id": "3731f03f-f7ac-4089-b43d-13d3845b67e0"
+    }
+]
